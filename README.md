@@ -4,7 +4,7 @@ A research paper summarisation agent. Upload a PDF, get back a structured JSON s
 
 ## How it works
 
-Two-stage pipeline, no pre-processing magic:
+Two-stage pipeline, no pre-processing:
 
 ```
 Stage 1 — Extract & Classify (no LLM)
