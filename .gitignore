@@ -1,0 +1,21 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Claude Code internals
+.claude/
+
+# Exported conversation logs
+*.txt
+!requirements.txt
+
+# macOS
+.DS_Store
