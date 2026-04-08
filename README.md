@@ -1,4 +1,4 @@
-# reader-agent
+# Reader Agent
 
 A research paper summarisation agent. Upload a PDF, get back a structured JSON summary with key claims and citation anchors — section by section.
 
